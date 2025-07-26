@@ -1,6 +1,6 @@
 # Script-Analyzer-roblox-studio
 A plugin that analyzes scripts.
-
+https://create.roblox.com/store/asset/128877783712111
 License Agreement - ScriptAnalyzer Plugin
 All rights to this plugin are exclusively owned by amindez24.
 By using this plugin, you agree to the following terms:
